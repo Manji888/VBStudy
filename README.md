@@ -1,2 +1,2 @@
 # VBStudy
-VB.NET学習記録
+VB.NETの学習記録です。
